@@ -1,2 +1,0 @@
-Flask==2.3.3  # veya 3.0.0 – daha stabil
-pyTelegramBotAPI==4.14.0  # telebot eski ama güvenli
