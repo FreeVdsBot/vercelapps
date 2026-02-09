@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index" }
+  ],
+  "functions": {
+    "index.py": { "memory": 1024, "maxDuration": 60 }
+  }
+}
