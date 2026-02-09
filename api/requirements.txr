@@ -1,3 +1,2 @@
-Flask==3.0.3
-pyTelegramBotAPI==4.22.1  # telebot – örnek paket
-vercel_blob==0.4.2        # kalıcı dosya için
+Flask==2.3.3  # veya 3.0.0 – daha stabil
+pyTelegramBotAPI==4.14.0  # telebot eski ama güvenli
